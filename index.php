@@ -1,18 +1,22 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
- 
-
 <?php
-echo "Hello, World!";
+echo "Hello, World!\n";
+
+// this is a comment
+$a = 123;
+$b = 10;
+
+$c = $a + $b;
+
+echo "sum = $c\n";
+
+$str = "i am krushna\n";
+
+echo $str;
+
+var_dump(($str));// used to find out the dat type of variable
+var_dump(($a));// used to find out the dat type of variable
+
+
 ?>
 
 
-
-</body>
-</html>
