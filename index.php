@@ -13,8 +13,8 @@ $str = "i am krushna\n";
 
 echo $str;
 
-var_dump(($str));// used to find out the dat type of variable
-var_dump(($a));// used to find out the dat type of variable
+var_dump($str);
+var_dump($a);
 
 
 ?>

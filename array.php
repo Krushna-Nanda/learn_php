@@ -1,7 +1,10 @@
 <?php
 
 $fruit = array("apple", "orange", "grape", "banana", "plum");
-var_dump(($fruit));
+var_dump($fruit);
+
+$number = array(1,2,3,4,5,6,7,8);
+var_dump($number);
 
 
 $str = "krushna chandra nanda";
